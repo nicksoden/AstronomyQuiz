@@ -57,7 +57,7 @@
     <string name="question_eight_phobos">Phobos</string>
     <string name="question_eight_oberon">Oberon</string>
 
-    <!--Submit answer and reset button text-->
+    <!--Answer and reset buttons text-->
     <string name="submit_answers"><b>Submit Answer</b></string>
     <string name="reset_button"><b>Restart</b></string>
 </resources>
