@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">Astronomy Quiz</string>
+    <string name="type_answer_here">Type Answer here</string>
+
+    <!--Question #1 strings-->
+    <string name="question_one"><b>#1: How many planets are there in our Solar System?</b></string>
+
+    <!--Question #2 strings-->
+    <string name="question_two"><b>#2: Which of these are moons of Jupiter? </b></string>
+    <string name="question_two_io">Io</string>
+    <string name="question_two_titan">Titan</string>
+    <string name="question_two_ganymede">Ganymede</string>
+    <string name="question_two_europa">Europa</string>
+    <string name="question_two_callisto">Callisto</string>
+
+    <!--Question #3 strings-->
+    <string name="question_three"><b>#3: Which planet is larger in diameter, Uranus or Neptune?</b></string>
+
+    <!--Question #4 strings-->
+    <string name="question_four"><b>#4: From nearest to furthest from the Sun, what is the correct order of the planets?</b></string>
+    <string name="question_four_a">Mercury, Venus, Mars, Earth, Jupiter, Saturn, Uranus, Neptune</string>
+    <string name="question_four_b">Mercury, Venus, Earth, Mars, Saturn, Jupiter, Uranus, Neptune</string>
+    <string name="question_four_c">Venus, Mercury, Earth, Mars, Saturn, Jupiter, Neptune, Uranus</string>
+    <string name="question_four_d">Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune</string>
+    <string name="question_four_e">Mars, Venus, Earth, Mercury, Jupiter, Saturn, Neptune, Uranus</string>
+
+    <!--Question #5 strings-->
+    <string name="question_five"><b>#5: Which of the following is larger in diameter, Titan or Mercury?</b></string>
+    <string name="question_five_titan">Titan</string>
+    <string name="question_five_mercury">Mercury</string>
+
+    <!--Question #6 strings-->
+    <string name="question_six"><b>#6: From largest to the smallest diameter, what is the correct order of the planets in our Solar System?</b></string>
+    <string name="question_six_a">Jupiter, Saturn, Neptune, Uranus, Mars, Earth, Venus, Mercury</string>
+    <string name="question_six_b">Saturn, Jupiter, Uranus, Neptune, Earth, Mars, Mercury, Venus</string>
+    <string name="question_six_c">Jupiter, Saturn, Uranus, Neptune, Earth, Venus, Mars, Mercury</string>
+    <string name="question_six_d">Saturn, Jupiter, Neptune, Uranus, Earth, Venus, Mars, Mercury</string>
+    <string name="question_six_e">Jupiter, Saturn, Neptune, Uranus, Earth, Venus, Mars, Mercury</string>
+
+    <!--Question #7 strings-->
+    <string name="question_seven"><b>#7: Which of these planets are gas giants?</b></string>
+    <string name="question_seven_mars">Mars</string>
+    <string name="question_seven_jupiter">Jupiter</string>
+    <string name="question_seven_earth">Earth</string>
+    <string name="question_seven_neptune">Neptune</string>
+    <string name="question_seven_venus">Venus</string>
+    <string name="question_seven_mercury">Mercury</string>
+    <string name="question_seven_saturn">Saturn</string>
+    <string name="question_seven_uranus">Uranus</string>
+
+    <!--Question #8 strings-->
+    <string name="question_eight"><b>#8: Which of these are the moons of Mars</b></string>
+    <string name="question_eight_charon">Charon</string>
+    <string name="question_eight_deimos">Deimos</string>
+    <string name="question_eight_enceladus">Enceladus</string>
+    <string name="question_eight_phobos">Phobos</string>
+    <string name="question_eight_oberon">Oberon</string>
+
+    <!--Submit answer and reset button text-->
+    <string name="submit_answers"><b>Submit Answer</b></string>
+    <string name="reset_button"><b>Restart</b></string>
+</resources>
